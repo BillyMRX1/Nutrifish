@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327088785763",
+    "project_id": "nutrifish-5c87a",
+    "storage_bucket": "nutrifish-5c87a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327088785763:android:20f1994ff806d296e22b56",
+        "android_client_info": {
+          "package_name": "com.omek.nutrifish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327088785763-r2h4ms9s8dkdg4d1bmf796kkgmh5bs2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApLRo4n_aPowWLG3Cw_p5Wn4pDMrW5B7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327088785763-r2h4ms9s8dkdg4d1bmf796kkgmh5bs2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
